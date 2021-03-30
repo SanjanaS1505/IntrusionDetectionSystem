@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: #9c3437;
+}
+
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-size: 20px;
+    align-items: center;
+    
+}
+
+body{
+    margin-bottom: 40px;
+}
+
+a{
+    font-size: 20px;
+
+}
+
+a:hover{
+    color: #e5474b;
+}

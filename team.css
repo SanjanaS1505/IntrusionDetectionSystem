@@ -1,0 +1,18 @@
+h1,h2{
+    color: #e5474b;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-size: 25px;
+    margin-left: 35%;
+  }
+
+img{
+    width:400px;
+}
+
+h3{
+    font-size:30px;
+}
